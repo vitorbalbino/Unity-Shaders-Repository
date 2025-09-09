@@ -1,12 +1,12 @@
 # Unity Shaders
 A collection of shaders for Unity games.
 
-[See the High Level Documentation.](https://docs.google.com/document/d/1Gk7bjZbUOCxY_tMUHIFCeGoRjWdxVsdwgUH-Crof9QI/edit?usp=sharing)
+<a href="https://docs.google.com/document/d/1Gk7bjZbUOCxY_tMUHIFCeGoRjWdxVsdwgUH-Crof9QI/edit?usp=sharing"  target="_blank">See the High Level Documentation.</a>
 
 ---
 ### Author: Vitor Balbino
 
-LinkedIn: https://www.linkedin.com/in/vitorbcastro/
+LinkedIn: <a href="https://www.linkedin.com/in/vitorbcastro/"  target="_blank">https://www.linkedin.com/in/vitorbcastro/</a>
 
 ---
 ### CC BY (Attribution)
